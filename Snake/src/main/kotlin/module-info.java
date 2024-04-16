@@ -1,4 +1,4 @@
-module org.example.snake {
+module com.example.snake {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -12,6 +12,6 @@ module org.example.snake {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens org.example.snake to javafx.fxml;
-    exports org.example.snake;
+    opens com.example.snake to javafx.fxml;
+    exports com.example.snake;
 }
