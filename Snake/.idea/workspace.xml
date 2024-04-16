@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a6d1bc-4c06-4257-a519-4a7d71d03161" name="Changes" comment="" />
+    <list default="true" id="d7a6d1bc-4c06-4257-a519-4a7d71d03161" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/snake/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/snake/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_berry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_coconut_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_pomegranate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ic_watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake_game_over_thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake_thumb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/snake/HelloApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/module-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2fAkhpBOeMOgnfszFrHpj9B7dfr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,13 +51,46 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.HelloApplicationKt.executor": "Run",
+    "Kotlin.Main.executor": "Run",
+    "Kotlin.Main2Kt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/glebuga/Desktop/Snake/Snake/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\glebuga\Desktop\Snake\Snake\src\main\resources\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\glebuga\Desktop\Snake\Snake\src\main\resources" />
+      <recent name="C:\Users\glebuga\Desktop\Snake\Snake\src\main\resources\com\example\snake" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.snake.Main2Kt" />
+      <module name="Snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Main2Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -39,8 +106,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713251406773</updated>
-      <workItem from="1713251407755" duration="1000" />
+      <workItem from="1713251407755" duration="395000" />
+      <workItem from="1713251849306" duration="5754000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

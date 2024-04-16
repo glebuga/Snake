@@ -11,6 +11,7 @@ module com.example.snake {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.desktop;
 
     opens com.example.snake to javafx.fxml;
     exports com.example.snake;
