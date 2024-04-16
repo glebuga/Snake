@@ -1,3 +1,5 @@
+package org.example.snake
+
 import javafx.animation.Animation
 import javafx.animation.KeyFrame
 import javafx.animation.Timeline
@@ -198,10 +200,8 @@ class Main : Application() {
         gc.fillText("Score: $score", 10.0, 35.0)
     }
 
-    companion object {
-        @JvmStatic
-        fun main(args: Array<String>) {
-            launch(*args)
-        }
-    }
+}
+
+fun main() {
+    Application.launch(MainApplication::class.java)
 }
